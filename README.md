@@ -1,1 +1,2 @@
-# MipsSimulator
+# Mips Simulator Trial Project
+
